@@ -37,3 +37,26 @@ s.no|s.name|s.marks
 
 # insert image:
 ![alt myimage](dora.png)
+
+
+
+# insert a code
+
+Explain sum of two numbers using python
+
+
+
+         a=4
+         b=6
+         c=a+b
+         print("the sum of {}and {} is {}".format(a,b,c))
+
+
+
+
+
+
+
+
+
+
