@@ -23,7 +23,7 @@ ex:[Google](https://www.internshalatrainings.com)
 
 # create a table
 s.no|s.name|s.marks
--------------------------
+----|-------|-------------
 1|abc|99
 ------------------------
 2|def|98
