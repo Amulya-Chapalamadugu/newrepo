@@ -32,3 +32,8 @@ s.no|s.name|s.marks
 ----|--------|-----------------
 4|jkl|80
 -----|-------|--------------
+
+
+
+# insert image:
+![alt myimage](dora.png)
