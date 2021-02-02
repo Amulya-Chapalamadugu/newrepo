@@ -19,4 +19,4 @@ Java is a class-based, object-oriented programming language that is designed to 
 My college name is ***Andhra Loyola Institute of Engg and Tech***
 # create new link
 the syntax for creating a link in markdown [text](url)
-ex:[Google](https://www.Andhra Loyola Institute of Engineering and Technology.com)
+ex:[Google](https://www.AndhraLoyolaInstituteofEngineeringandTechnology.com)
